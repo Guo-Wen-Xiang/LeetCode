@@ -40,7 +40,7 @@ public:
     }
 };
 
-/* Solution 1: dynamic programming
+/* Solution 2: dynamic programming
 Time complexity: O(n)
 Space complexity: O(1)
 */
